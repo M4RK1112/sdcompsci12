@@ -36,3 +36,4 @@ Sometimes Winnie-the-Pooh likes a game of some sort when he comes downstairs, an
 
 So I tried.
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
